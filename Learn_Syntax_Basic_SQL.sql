@@ -267,7 +267,7 @@ Select * from Products where SupplierId=7
 
 
 --Kiểm tra giá cả
--- Hiện mỗi giá
+-- Hiện mỗi giá và tên
 Select ProductName, Price From Products 
 
 -- sắp xếp theo giá trị tăng dần, hiển thị tên sản phẩm và giá
